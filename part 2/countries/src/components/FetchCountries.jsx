@@ -1,4 +1,4 @@
-const FetchCountries = ({ countries, search }) => {
+const FetchCountries = ({ countries, search, searchResults }) => {
   return (
     <div>
       {countries
